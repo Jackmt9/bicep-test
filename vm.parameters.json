@@ -3,10 +3,10 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "adminUsername": {
-      "value": "admin"
+      "value": "aslkfjljk32"
     },
     "publicIpName": {
-      "value": "myPublicIP"
+      "value": "myPublicIP2"
     },
     "publicIPAllocationMethod": {
       "value": "Dynamic"
@@ -21,16 +21,28 @@
       "value": "Standard_D2s_v5"
     },
     "vmName": {
-      "value": "simple-vm"
+      "value": "simple-vm22"
     },
     "securityType": {
       "value": "TrustedLaunch"
     },
-    "addressPrefix": {
-      "value": "10.0.0.0/16"
+    "storageAccountName": {
+      "value": "bootdiagsh7czbzzlbjbli"
     },
-    "subnetPrefix": {
-      "value": "10.0.0.0/24"
+    "subnetName": {
+      "value": "Subnet-1"
+    },
+    "virtualNetworkName": {
+      "value": "examplevnet"
+    },
+    "imagePublisher": {
+      "value": "MicrosoftWindowsServer"
+    },
+    "imageOffer": {
+      "value": "WindowsServer"
+    },
+    "storageAccountType": {
+      "value": "StandardSSD_LRS"
     }
   }
 }
