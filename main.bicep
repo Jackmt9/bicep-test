@@ -17,3 +17,9 @@ module storageAccount './storageAccount.bicep' = {
   }
 }
 
+bicep in iac 2.0
+need virtual machine module
+public ip/private ip. think virtual network and subnet is working already.'
+
+address prefix, subnet all come as param, virtual network name'
+
